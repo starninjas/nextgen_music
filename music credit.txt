@@ -1,0 +1,14 @@
+[Desert Music]
+desert 1 - "Nomads" - eleyra opengameart.org/content/nomads - cc-by 3.0
+desert 2 - "Shifting Sands of Makali" - hitctrl https://opengameart.org/content/shifting-sands-of-ma-kali - cc-by 3.0
+desert 3 - "Desert Biome" - joeBaxterWebb https://opengameart.org/content/desert-biome - cc-by 4.0
+desert night 3 - “Flaming Deserts”. Music by Marcelo Fernandez (http://www.marcelofernandezmusic.com). Licensed under Creative Commons Attribution 4.0 International (http://creativecommons.org/licenses/by/4.0/).
+[Rainforest Music]
+jungle night 1 - Alex McCulloch
+jungle 1 - Tausdei
+[Wintery Music]
+snow 2 - cynicmusic.com
+snow 3 - "Ice Cave" - TAD https://opengameart.org/content/ice-cave - CC-BY 4.0
+snow 5 - "Ice Shine Bells" - hc https://opengameart.org/content/ice-shine-bells
+snow 6 - Karate Studios
+snow night 1 - "Ice Cold" - tcarisland https://opengameart.org/content/ice-cold - CC-BY 4.0
