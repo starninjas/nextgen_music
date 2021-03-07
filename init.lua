@@ -64,7 +64,7 @@ minetest.register_globalstep(function(dtime)
 					name = minetest.get_biome_name(bdata.biome)
 				end
 				local rc = name
-        if not vector.equals(ippos, display_biome[pname].last_ippos) then
+        			if not vector.equals(ippos, display_biome[pname].last_ippos) then
 					display_biome[pname].last_ippos = vector.new(ippos)  -- update last player position
 				end
 			end
