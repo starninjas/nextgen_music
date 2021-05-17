@@ -1,43 +1,44 @@
-cold_desert
-cold_desert_ocean
-cold_desert_under
-coniferous_forest
-coniferous_forest_dunes
-coniferous_forest_ocean
-coniferous_forest_under
-deciduous_forest
-deciduous_forest_ocean
-deciduous_forest_shore
-deciduous_forest_under
-desert
-desert_ocean
-desert_under
-grassland
-grassland_dunes
-grassland_ocean
-grassland_under
-icesheet
-icesheet_ocean
-icesheet_under
-rainforest
-rainforest_ocean
-rainforest_swamp
-rainforest_under
-sandstone_desert
-sandstone_desert_ocean
-sandstone_desert_under
-savanna
-savanna_ocean
-savanna_shore
-savanna_under
-snowy_grassland
-snowy_grassland_ocean
-snowy_grassland_under
-taiga
-taiga_ocean
-taiga_under
-tundra
-tundra_beach
-tundra_highland
-tundra_ocean
-tundra_under
+# Name				| Done?
+cold_desert			| 
+cold_desert_ocean		| 
+cold_desert_under		| 
+coniferous_forest		| 
+coniferous_forest_dunes		| 
+coniferous_forest_ocean		| 
+coniferous_forest_under		| 
+deciduous_forest		| 
+deciduous_forest_ocean		| 
+deciduous_forest_shore		| 
+deciduous_forest_under		| 
+desert				| 
+desert_ocean			| 
+desert_under			| 
+grassland			| 
+grassland_dunes			| 
+grassland_ocean			| 
+grassland_under			| 
+icesheet			| 
+icesheet_ocean			| 
+icesheet_under			| 
+rainforest			| 
+rainforest_ocean		| 
+rainforest_swamp		| 
+rainforest_under		| 
+sandstone_desert		| 
+sandstone_desert_ocean		| 
+sandstone_desert_under		| 
+savanna				| 
+savanna_ocean			| 
+savanna_shore			| 
+savanna_under			| 
+snowy_grassland			| 
+snowy_grassland_ocean		| 
+snowy_grassland_under		| 
+taiga				| 
+taiga_ocean			| 
+taiga_under			| 
+tundra				| 
+tundra_beach			| 
+tundra_highland			| 
+tundra_ocean			| 
+tundra_under			| 
