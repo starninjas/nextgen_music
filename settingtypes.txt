@@ -1,0 +1,1 @@
+nextgen_music_enabled (Start enabled) bool true
